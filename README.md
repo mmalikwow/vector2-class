@@ -1,4 +1,4 @@
 # vector2-class
-A vector2class in javascript with weird math that works
+vector2 javascript class that somehow works
 
-don't use this pls
+please don't use this
